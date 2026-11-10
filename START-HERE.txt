@@ -1,0 +1,60 @@
+LOLADE'S BIRTHDAY WEBSITE
+
+1. Extract the ZIP into a folder called Lolade Birthday.
+2. Export your two edited videos as MP4, preferably H.264 video with AAC audio.
+3. Save the FIRST video as: azidan22.mp4
+4. Save the SECOND video as: azidan 23.mp4
+   There is ONE SPACE between azidan and 23 in the second filename.
+5. Put BOTH videos in the SAME folder as index.html. Do not use a videos subfolder.
+
+Your folder should contain:
+
+Lolade Birthday/
+    index.html
+    azidan22.mp4
+    azidan 23.mp4
+    START-HERE.txt
+
+On Windows, turn on File Explorer > View > Show > File name extensions.
+Check that the files do not accidentally end in .mp4.mp4.
+Renaming a different video format to .mp4 does not convert it: export as MP4.
+
+OPEN AND CHECK
+Double-click index.html to preview it in a browser. No installation is needed.
+Go through the questions to reach the poem and play both videos.
+Until you add the videos, two elegant placeholder cards appear instead.
+Internet access loads Cormorant Garamond and Inter; fallback fonts work offline.
+On phones, opening a shared HTML attachment may not run JavaScript. For the best
+mobile experience, upload index.html and BOTH videos together to a static web
+host, preserving their filenames and keeping them in the same directory.
+The ZIP currently contains the website and these instructions, not your videos.
+If you share the files as a ZIP later, create a new ZIP after adding the videos.
+
+BIRTHDAY GAME
+There are six questions, each worth NGN 5,000, for a maximum of NGN 30,000.
+Q1 accepts A and D. Q2, Q3 and Q6 accept every answer.
+Q4 accepts B. Q5 accepts C.
+Each quiz answer locks when selected; it cannot award money multiple times.
+Refreshing the page starts a new visit. This is a personal birthday game, not a
+secure payment system; the birthday benefactor should verify the amount before
+making a transfer.
+
+REWARD CLAIM
+The page displays no email address and uses the anonymous-account wording.
+The claim form accepts an account name, bank name and 10-digit Nigerian account
+number. It opens a prepared email addressed to the recipient you supplied.
+Lolade must press Send in her email app; nothing sends automatically.
+The recipient address is visible in the email app and in the HTML source.
+Mailto requires a configured email app or browser email handler. If nothing
+opens, configure one and use the Open my email app again button.
+The page cannot confirm that the email was sent and does not transfer money.
+The birthday benefactor must make the transfer separately.
+Account details are not saved to local storage or sent to a website server;
+they remain in page memory until it is closed/refreshed and go into the email.
+No bank PIN, password, BVN, OTP or card details are requested.
+
+PRIVACY
+Anyone with your hosted link may be able to open or download the videos unless
+you enable access protection with your chosen hosting provider. Share carefully.
+A truly hidden recipient and automatic claim delivery require a backend or
+form service; this single-file version intentionally uses the requested mailto.
